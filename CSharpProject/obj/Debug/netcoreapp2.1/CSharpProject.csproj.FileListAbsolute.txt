@@ -1,0 +1,11 @@
+C:\Users\naoya.shikichi\Documents\Visual Studio 2017\Projects\CSharpProject\CSharpProject\bin\Debug\netcoreapp2.1\CSharpProject.deps.json
+C:\Users\naoya.shikichi\Documents\Visual Studio 2017\Projects\CSharpProject\CSharpProject\bin\Debug\netcoreapp2.1\CSharpProject.runtimeconfig.json
+C:\Users\naoya.shikichi\Documents\Visual Studio 2017\Projects\CSharpProject\CSharpProject\bin\Debug\netcoreapp2.1\CSharpProject.runtimeconfig.dev.json
+C:\Users\naoya.shikichi\Documents\Visual Studio 2017\Projects\CSharpProject\CSharpProject\bin\Debug\netcoreapp2.1\CSharpProject.dll
+C:\Users\naoya.shikichi\Documents\Visual Studio 2017\Projects\CSharpProject\CSharpProject\bin\Debug\netcoreapp2.1\CSharpProject.pdb
+C:\Users\naoya.shikichi\Documents\Visual Studio 2017\Projects\CSharpProject\CSharpProject\obj\Debug\netcoreapp2.1\CSharpProject.csprojAssemblyReference.cache
+C:\Users\naoya.shikichi\Documents\Visual Studio 2017\Projects\CSharpProject\CSharpProject\obj\Debug\netcoreapp2.1\CSharpProject.csproj.CoreCompileInputs.cache
+C:\Users\naoya.shikichi\Documents\Visual Studio 2017\Projects\CSharpProject\CSharpProject\obj\Debug\netcoreapp2.1\CSharpProject.AssemblyInfoInputs.cache
+C:\Users\naoya.shikichi\Documents\Visual Studio 2017\Projects\CSharpProject\CSharpProject\obj\Debug\netcoreapp2.1\CSharpProject.AssemblyInfo.cs
+C:\Users\naoya.shikichi\Documents\Visual Studio 2017\Projects\CSharpProject\CSharpProject\obj\Debug\netcoreapp2.1\CSharpProject.dll
+C:\Users\naoya.shikichi\Documents\Visual Studio 2017\Projects\CSharpProject\CSharpProject\obj\Debug\netcoreapp2.1\CSharpProject.pdb
