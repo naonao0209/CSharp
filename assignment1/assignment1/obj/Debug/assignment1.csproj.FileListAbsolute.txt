@@ -1,0 +1,6 @@
+c:\users\naoya.shikichi\documents\visual studio 2017\Projects\assignment1\assignment1\bin\Debug\assignment1.exe.config
+c:\users\naoya.shikichi\documents\visual studio 2017\Projects\assignment1\assignment1\bin\Debug\assignment1.exe
+c:\users\naoya.shikichi\documents\visual studio 2017\Projects\assignment1\assignment1\bin\Debug\assignment1.pdb
+c:\users\naoya.shikichi\documents\visual studio 2017\Projects\assignment1\assignment1\obj\Debug\assignment1.csprojResolveAssemblyReference.cache
+c:\users\naoya.shikichi\documents\visual studio 2017\Projects\assignment1\assignment1\obj\Debug\assignment1.exe
+c:\users\naoya.shikichi\documents\visual studio 2017\Projects\assignment1\assignment1\obj\Debug\assignment1.pdb
