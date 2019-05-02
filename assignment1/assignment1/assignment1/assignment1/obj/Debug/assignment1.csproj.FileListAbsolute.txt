@@ -1,0 +1,7 @@
+C:\Users\naoya.shikichi\source\repos\assignment1\assignment1\obj\Debug\assignment1.csprojAssemblyReference.cache
+C:\Users\naoya.shikichi\source\repos\assignment1\assignment1\obj\Debug\assignment1.csproj.CoreCompileInputs.cache
+C:\Users\naoya.shikichi\source\repos\assignment1\assignment1\bin\Debug\assignment1.exe.config
+C:\Users\naoya.shikichi\source\repos\assignment1\assignment1\bin\Debug\assignment1.exe
+C:\Users\naoya.shikichi\source\repos\assignment1\assignment1\bin\Debug\assignment1.pdb
+C:\Users\naoya.shikichi\source\repos\assignment1\assignment1\obj\Debug\assignment1.exe
+C:\Users\naoya.shikichi\source\repos\assignment1\assignment1\obj\Debug\assignment1.pdb
