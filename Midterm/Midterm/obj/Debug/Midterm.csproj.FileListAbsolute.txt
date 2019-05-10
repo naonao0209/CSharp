@@ -1,0 +1,7 @@
+C:\Users\naoya\OneDrive\Desktop\C#\Midterm\Midterm\bin\Debug\Midterm.exe.config
+C:\Users\naoya\OneDrive\Desktop\C#\Midterm\Midterm\bin\Debug\Midterm.exe
+C:\Users\naoya\OneDrive\Desktop\C#\Midterm\Midterm\bin\Debug\Midterm.pdb
+C:\Users\naoya\OneDrive\Desktop\C#\Midterm\Midterm\obj\Debug\Midterm.csprojAssemblyReference.cache
+C:\Users\naoya\OneDrive\Desktop\C#\Midterm\Midterm\obj\Debug\Midterm.csproj.CoreCompileInputs.cache
+C:\Users\naoya\OneDrive\Desktop\C#\Midterm\Midterm\obj\Debug\Midterm.exe
+C:\Users\naoya\OneDrive\Desktop\C#\Midterm\Midterm\obj\Debug\Midterm.pdb
